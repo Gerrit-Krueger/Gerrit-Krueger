@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hallo
+  📚Ich studiere momentan Informatik an der FH Münster und teile mit dieser Seite paar Projekte, die ich zur Zeit erstelle.
+  💬So können Sie mich kontaktieren: 
+  Linkedin: www.linkedin.com/in/gerrit-krüger-620a591a1
+  Telefonnummer: 01631447756
+
 
 <!--
 **Gerrit-Krueger/Gerrit-Krueger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

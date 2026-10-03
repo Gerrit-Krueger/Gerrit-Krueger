@@ -3,7 +3,7 @@
 
 💬So können Sie mich kontaktieren:  
 	Linkedin: www.linkedin.com/in/gerrit-krüger-620a591a1  
-	Telefonnummer: 01631447756
+	E-Mail: gerrit2006@t-online.de
 
 
 <!--
